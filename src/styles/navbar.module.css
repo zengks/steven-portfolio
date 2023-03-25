@@ -1,0 +1,22 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(145, 142, 142);
+    align-items: center;
+}
+
+.navbarNav {
+    line-height: 36px;
+}
+
+.navbarListItems{
+    display: flex;
+    justify-content: space-around;
+}
+
+.navbarListItems li {
+    width: 100px;
+    text-decoration: none;
+    list-style: none;
+    font-size: 1.5rem;
+}
