@@ -1,0 +1,16 @@
+.about {
+    text-align: center;
+    margin: 2rem 0;
+}
+
+.bulletPoints {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 2rem;
+}
+
+.profileSkills {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid;
+}

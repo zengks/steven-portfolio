@@ -1,0 +1,10 @@
+.oneProject {
+    margin: 1rem;
+    border: 1px solid;
+}
+
+.oneProject img {
+    /* border-radius: 9999px; */
+    width: 200px;
+    height: auto;
+}

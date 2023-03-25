@@ -1,0 +1,9 @@
+.profile {
+    margin: 2rem;
+}
+
+.profileImage{
+    border-radius: 9999px;
+    width: 120px;
+    height: 120px;
+}
